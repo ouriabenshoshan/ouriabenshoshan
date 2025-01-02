@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ouriabenshoshan
-- 👀 I’m interested in: cp
-- 🌱 I’m currently learning: java,c++,python and cp
+- 👀 I’m interested in: cp and interesting random projecrs
+- 🌱 I’m currently learning: java,c++,python,c and cp
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
